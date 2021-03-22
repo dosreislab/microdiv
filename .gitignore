@@ -1,0 +1,15 @@
+rst*
+tmp*
+.Rhistory
+2base.t
+SeedUsed
+in.basemlg
+lnf
+out*
+rates
+rub
+mcmc*.txt
+out*.txt
+FigTree*.tre
+*.BV
+.Rproj.user
